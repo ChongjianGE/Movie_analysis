@@ -1,0 +1,28 @@
+HTML	data.py	/^from IPython.display import HTML, IFrame$/;"	i
+IFrame	data.py	/^from IPython.display import HTML, IFrame$/;"	i
+KernelPCA	data.py	/^from sklearn.decomposition import KernelPCA$/;"	i
+MinMaxScaler	data.py	/^from sklearn.preprocessing import MinMaxScaler$/;"	i
+TSNE	data.py	/^from sklearn.manifold import TSNE$/;"	i
+TextBlob	data.py	/^from textblob import TextBlob$/;"	i
+WordCloud	data.py	/^from wordcloud import WordCloud$/;"	i
+collections	data.py	/^import collections$/;"	i
+load_data	data.py	/^def load_data(path, file_list, dataset, encoding='utf8'):$/;"	f
+main	data.py	/^def main():$/;"	f
+matplotlib	data.py	/^import matplotlib.pyplot as plt$/;"	i
+np	data.py	/^import numpy as np$/;"	i
+os	data.py	/^import os$/;"	i
+pd	data.py	/^import pandas as pd$/;"	i
+plt	data.py	/^import matplotlib.pyplot as plt$/;"	i
+process_raw	data.py	/^def process_raw():$/;"	f
+remove_tags	data.py	/^from w3lib.html import remove_tags$/;"	i
+spacy	data.py	/^import spacy$/;"	i
+st	data.py	/^import scattertext as st$/;"	i
+timeit	data.py	/^import timeit$/;"	i
+tqdm_notebook	data.py	/^from tqdm import tqdm_notebook$/;"	i
+sys	test.py	/^import sys$/;"	i
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_PROGRAM_VERSION	5.8	//
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
