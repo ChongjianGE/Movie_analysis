@@ -1,4 +1,6 @@
-# Movie Reviews Analysis via Bidirectional Gated Recurrent Neural Network and Self-Attention Transformer
+# Movie Reviews Analysis via Bidirectional Gated Recurrent Neural Network and Self-Attention Transformer 
+
+## HKU COMP8503 Project
 
 The repository will walk you through the process of re-implementing our project. Please follow the following illustration step by step. We also provide the pre-trained model link in the bottom.
 
